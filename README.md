@@ -1,218 +1,158 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,40,0a0a1a,70,111133,100,1a1040&height=220&text=Omkar%20Gadakh&fontSize=52&fontColor=f0e6d3&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20AI%20Researcher%20in%20Progress&descSize=15&descAlignY=60&descColor=b8a99a" width="100%"/>
+</div>
 
-<!-- CAPSULE RENDER HEADER — Japanese ink wash style -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0a0a0a,15,1a1a2e,30,16213e,60,0f3460,100,533483&height=280&text=Omkar%20Gadakh&fontSize=58&fontColor=e8d5b7&animation=fadeIn&fontAlignY=40&desc=Applied%20AI%20Engineer%20%E2%80%A2%20Aspiring%20AI%20Researcher&descSize=17&descAlignY=62&descColor=c9b99a" width="100%"/>
+<br/>
 
-<!-- Japanese aesthetic divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,533483,50,0f3460,100,16213e&height=3&reversal=false" width="100%"/>
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=22&duration=3000&pause=1000&color=C9B8A8&center=true&vCenter=true&width=700&height=50&lines=Building+agents+that+reason+and+systems+that+scale;RAG+%C2%B7+LangGraph+%C2%B7+Agentic+AI+%C2%B7+LLM+Evaluation;2+Research+Publications+in+Multimodal+AI;Targeting+DeepMind+%C2%B7+OpenAI+%C2%B7+Google+Research+%C2%B7+Anthropic" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- Typing SVG — rolling identity statement -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=20&duration=3500&pause=1200&color=E8D5B7&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=Building+intelligent+systems+that+think+%F0%9F%A7%A0;GenAI+%7C+LangGraph+%7C+RAG+%7C+Agentic+AI;2+Research+Publications+in+Multimodal+AI+%F0%9F%93%84;On+a+path+to+AI+Research+%E2%80%94+DeepMind+%7C+OpenAI+%7C+Anthropic;GPA+9.55+%E2%80%A2+Diebold+Nixdorf+GenAI+Intern+%F0%9F%94%AD" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- JAPANESE PHILOSOPHY BANNER -->
-<div align="center">
-
-```
-    一  歩  一  歩  ——  Step by step, the path reveals itself.
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omkar--gadakh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-gadakh-313313288)
+[![Gmail](https://img.shields.io/badge/Gmail-omkargadakh1272004-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omkargadakh1272004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-omkar00004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omkar00004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-omkargadakh-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkargadakh1272004)
+[![Views](https://komarev.com/ghpvc/?username=omkar00004&style=flat-square&color=6e40c9&label=profile+views)](https://github.com/omkar00004)
 
 </div>
 
 ---
 
-## 〇 About Me
+## &nbsp; Who I Am
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=omkar00004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=e8d5b7&text_color=c9b99a&icon_color=9d79e0&count_private=true&rank_icon=github" />
+<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=omkar00004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=f0e6d3&text_color=b8a99a&icon_color=8b6cc4&count_private=true&rank_icon=github&custom_title=GitHub+Stats" />
 
-I am an **Applied AI Engineer** and a **final-year B.E. student in AI & Data Science** at Savitribai Phule Pune University with a **GPA of 9.55/10**.
+**Applied AI Engineer** building production systems that think. Final-year B.E. student in AI and Data Science at Savitribai Phule Pune University with a **9.55 GPA**.
 
-Currently interning at **Diebold Nixdorf** building production-grade Agentic AI systems — from BPMN workflow agents to no-code chatbot platforms powered by LangGraph and LLM evaluation pipelines.
+At **Diebold Nixdorf**, I build Agentic AI systems end-to-end: BPMN workflow agents, no-code chatbot platforms, RAG pipelines with LLM evaluation.
 
-My long-term north star: **fundamental AI research**. I am actively building the foundations — publications, systems thinking, and deep ML intuition — to pursue a **fully funded PhD** at a world-class institution and contribute to labs like **DeepMind**, **OpenAI**, **Google Research**, or **Anthropic**.
+Two research publications in **Multimodal Content Moderation** (Springer Nature + ICIA conference). Every project I build is a stepping stone toward one destination: **AI Research at a world-class lab**.
 
-> *"研究とは、未知を既知に変える旅だ。"*
-> *Research is the journey of turning the unknown into the known.*
+> *The work is the prayer. Every system built is a sentence in a longer argument.*
 
 <br clear="right"/>
 
 ---
 
-## 〇 Core Competencies
+## &nbsp; Experience
 
-<div align="center">
+**GenAI Intern @ Diebold Nixdorf** &nbsp; `Sep 2025 - Jan 2026` &nbsp; Mumbai
 
-| Domain | Depth |
-|---|---|
-| **Agentic AI & LLM Systems** | LangGraph · LangChain · RAG · Re-ranking · Vector Search · Prompt Engineering |
-| **Model Development** | Transformers · ViT · CNNs · NLP · Computer Vision · Model Optimization |
-| **MLOps & Evaluation** | Langfuse · ChromaDB · FlashRank · End-to-end tracing |
-| **Engineering** | Python · FastAPI · PyTorch · TensorFlow · Streamlit · Scikit-learn |
-| **Research** | Multimodal Content Moderation · Published ×2 (Cureus/Springer Nature · ICIA Conference) |
+- Built an **Agentic AI Platform** for no-code/low-code chatbot creation over enterprise documents via drag-and-drop components
+- Designed a **BPMN AI Agent System** using LangGraph, combining rule-based parsing with LLM reasoning to interact with payment gateway workflows via natural language
+- Built **MIR and RCA pipelines** using LangChain with Langfuse for end-to-end traceability and LLM evaluation
 
-</div>
+**AI/ML Lead @ Google Developer Groups** &nbsp; `Sep 2024 - Jul 2025` &nbsp; Nashik
 
----
-
-## 〇 Technology Arsenal
-
-<div align="center">
-
-### 🔬 AI / ML / GenAI
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiM5ZDc5ZTAiLz48L3N2Zz4=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Langfuse-7C3AED?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### 💻 Languages & Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Data
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-</div>
+- Organized 5+ workshops on ML, increasing participation by 50%
+- Mentored 300+ students in Python, TensorFlow, and PyTorch
 
 ---
 
-## 〇 Selected Work
+## &nbsp; Selected Projects
 
-### ⬡ Mini-Devin — Autonomous Coding Agent
-> A lightweight **autonomous software engineer agent** inspired by Devin. Breaks down coding tasks into sub-goals, writes code, runs tests, debugs, and iterates — all without human intervention. Built on LangGraph with a multi-step ReAct loop, tool-use (code execution, file I/O, shell), and self-reflection to recover from failures.
-
-### ⬡ BPMN AI Agent System *(Diebold Nixdorf)*
-> Production system combining **rule-based BPMN parsing** with LLM-enhanced reasoning. Enables natural language interaction with complex payment gateway workflows — explaining entities, gateways, and automating flows.
-
-### ⬡ Research Paper RAG Chatbot
-> Ingests 20+ PDFs → recursive chunking → dense embeddings (all-MiniLM-L6-v2) → ChromaDB indexing → FlashRank re-ranking → LLM response. Achieved **25% improvement in top-k retrieval relevance**, with Langfuse tracing for hallucination reduction.
-
-### ⬡ NutriNet — Vision Transformer from Scratch
-> Implemented full **ViT architecture** (patch embeddings, positional encoding, transformer encoder) from the *"An Image is Worth 16x16 Words"* paper. Benchmarked against CNN baselines on Food-101, achieving **5% performance uplift** with a nutritional calorie estimation module.
-
-### ⬡ Data Science Co-Pilot
-> Natural language interface for data analysis — supports 10+ data operations, 2+ ML model types, dashboard creation, and PDF report generation. Reduced manual analysis effort by **40%**.
+| Project | What it does | Stack |
+|---|---|---|
+| **Mini-Devin** | Autonomous coding agent: breaks tasks, writes code, runs tests, debugs, self-reflects in a ReAct loop without human input | LangGraph, GPT-4o, Tool Use |
+| **Research Paper RAG Chatbot** | Ingests 20+ PDFs, recursive chunking, dense embeddings, FlashRank re-ranking. **25% better top-k relevance** | RAG, ChromaDB, all-MiniLM, Langfuse |
+| **NutriNet (ViT from scratch)** | Full Vision Transformer built from the *"16x16 Words"* paper. **5% over CNN baseline** on Food-101 + calorie module | PyTorch, Transformers |
+| **Data Science Co-Pilot** | NL interface for data analysis: 10+ ops, 2 ML model types, dashboards, PDF reports. **40% less manual effort** | Python, LLMs, Streamlit |
+| **ConvoEase** | Multimodal chat moderation: text, image, and audio moderation via unified plugin engine | Flask, NLP, Audio/Vision |
 
 ---
 
-## 〇 Research & Publications
+## &nbsp; Research
 
 <div align="center">
 
 ```
- ┌─────────────────────────────────────────────────────────────────┐
- │  📄  Multimodal Content Moderation                              │
- │      Journal Paper — Cureus Journal (Springer Nature)           │
- │                                                                  │
- │  📄  Survey on Multimodal Content Moderation                    │
- │      Conference Paper — ICIA (International Conference on IA)   │
- └─────────────────────────────────────────────────────────────────┘
+  Published Work
+  ─────────────────────────────────────────────────────────────────────────
+  [1]  Multimodal Content Moderation
+       Journal Paper   Cureus Journal, Springer Nature
+
+  [2]  Survey on Multimodal Content Moderation
+       Conference Paper   ICIA (International Conference on Intelligence & AI)
+  ─────────────────────────────────────────────────────────────────────────
+  Research Interests
+  Foundation Models   LLM Reasoning & Alignment   Multimodal AI
+  Agentic Systems     Evaluation Methods           Emergent Capabilities
 ```
 
 </div>
 
-**Research interests converging toward:**
-`Foundation Models` · `LLM Reasoning & Alignment` · `Multimodal AI` · `Agentic Systems` · `Evaluation Methods`
-
 ---
 
-## 〇 GitHub Activity
+## &nbsp; Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=omkar00004&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=533483&ring=9d79e0&fire=e8d5b7&currStreakNum=e8d5b7&sideNums=c9b99a&currStreakLabel=9d79e0&sideLabels=c9b99a&dates=7a6e8a" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,linux,vscode&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar00004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=e8d5b7&text_color=c9b99a&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=gcp,azure,nextjs,react,streamlit,supabase,github,figma&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f0f23?style=flat-square&logoColor=8b6cc4)
+![Langfuse](https://img.shields.io/badge/Langfuse-7C3AED?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-## 〇 The Path Forward
+## &nbsp; GitHub Activity
 
 <div align="center">
 
-```
-            現在  ————————————————————▶  目標
-            NOW                        GOAL
-
-     ┌──────────────────────┐      ┌──────────────────────────┐
-     │  Applied AI Engineer │ ───▶ │    AI Research Role      │
-     │  Production Systems  │      │  DeepMind · OpenAI       │
-     │  Agentic AI · RAG    │      │  Google Research         │
-     │  LangGraph · LLMs    │      │  Anthropic               │
-     └──────────────────────┘      └──────────────────────────┘
-```
-
-</div>
-
-I believe the next decade of AI will be defined by **agents that reason**, **models that generalize**, and **systems that align with human intent**. I want to be in the room where that happens — and eventually, help build it.
-
----
-
-## 〇 Connect
-
-<div align="center">
-
-<a href="mailto:omkargadakh1272004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/omkar-gadakh-313313288">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/omkar00004">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/omkargadakh1272004">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=omkar00004&theme=midnight-purple&hide_border=true&background=0d0d18&stroke=2a1f5c&ring=8b6cc4&fire=f0e6d3&currStreakNum=f0e6d3&sideNums=b8a99a&currStreakLabel=8b6cc4&sideLabels=b8a99a&dates=6e5a8a" />
 
 <br/><br/>
 
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=omkar00004&style=for-the-badge&color=533483&label=PROFILE+VIEWS"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar00004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=f0e6d3&text_color=b8a99a&langs_count=6" />
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+## &nbsp; The Direction
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,16213e,50,0f3460,100,533483&height=120&section=footer&reversal=false" width="100%"/>
+```
+   Applied AI Engineer                    AI Research Role
+   ────────────────────        ──▶        ──────────────────────────
+   Production GenAI Systems               DeepMind
+   Agentic AI   RAG   LLMs                OpenAI
+   LangGraph    Langfuse                  Google Research
+   9.55 GPA   2 Papers                    Anthropic
+```
 
-*「継続は力なり」— Persistence is power.*
+*I want to be in the room where the next generation of intelligence is being built.*
+*And eventually, help build it.*
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1040,50,111133,100,0d0d0d&height=100&section=footer" width="100%"/>
+
+*Persistence is power.*
 </div>
