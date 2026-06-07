@@ -174,19 +174,19 @@ Two peer-reviewed publications in **Multimodal Content Moderation** at Springer 
 &nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/FUTURE-AI%20Research-3a7a34?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <sub>
 Agentic AI · LLM Systems · Reasoning · RAG · Human-AI Interaction
 </sub>
 
-<br/><br/>
+<br/>
 
 <sub>
 Research · Engineering · Open Source · Publications
 </sub>
 
-<br/><br/>
+<br/>
 
 <i>
 "I want to contribute to the next generation of intelligent systems — first by building them, then by discovering what they can become."
