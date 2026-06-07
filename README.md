@@ -189,7 +189,7 @@ Research · Engineering · Open Source · Publications
 <br/><br/>
 
 <i>
-"I want to contribute to the next generation of intelligent systems — first by building them, then by discovering what they can become."
+"I want to contribute to the next generation of intelligent systems - first by building them, then by discovering what they can become."
 </i>
 
 </div>
