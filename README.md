@@ -16,6 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omkargadakh1272004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-omkar00004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omkar00004)
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/omkargadakh1272004)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PAyHrEwAAAAJ&hl=en)
 [![Profile Views](https://komarev.com/ghpvc/?username=omkar00004&style=flat-square&color=3a7a34&label=profile+views)](https://github.com/omkar00004)
 
 </div>
