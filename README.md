@@ -186,7 +186,7 @@ Agentic AI · LLM Systems · Reasoning · RAG · Human-AI Interaction
 Research · Engineering · Open Source · Publications
 </sub>
 
-<br/>
+<br/><br/>
 
 <i>
 "I want to contribute to the next generation of intelligent systems — first by building them, then by discovering what they can become."
