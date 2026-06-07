@@ -142,7 +142,7 @@ Two peer-reviewed publications in **Multimodal Content Moderation** at Springer 
 
 ## &nbsp; Certifications
 
-[![ML Specialization](https://img.shields.io/badge/Machine%20Learning%20Specialization-Andrew%20Ng%20%7C%20DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org)
+[[![ML Specialization](https://img.shields.io/badge/Machine%20Learning%20Specialization-Andrew%20Ng%20%7C%20DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org)](https://www.coursera.org/account/accomplishments/specialization/AIEO1EGWQUWM)
 
 [![Google GenAI](https://img.shields.io/badge/Google%20Cloud%20Gen%20AI%20Study%20Jam-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
