@@ -168,38 +168,37 @@ Two peer-reviewed publications in **Multimodal Content Moderation** at Springer 
 
 ## &nbsp; The Direction
 
+```html
+---
+
+## The Direction
+
 <div align="center">
 
-<br/>
-
-<img src="https://img.shields.io/badge/NOW-Applied%20AI%20Engineer-d4a84f?style=for-the-badge&logoColor=white"/>
-&nbsp;&nbsp;&nbsp; ⟶ &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GOAL-AI%20Research%20Role-3a7a34?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NOW-Building%20AI-d4a84f?style=for-the-badge"/>
+&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FUTURE-AI%20Research-3a7a34?style=for-the-badge"/>
 
 <br/><br/>
 
-<sub>Production GenAI &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LangGraph &nbsp;·&nbsp; Langfuse &nbsp;·&nbsp; GPA 9.55 &nbsp;·&nbsp; 2 Publications</sub>
+<sub>
+Agentic AI · LLM Systems · Reasoning · RAG · Human-AI Interaction
+</sub>
 
 <br/><br/>
 
-<sub>DeepMind &nbsp;&nbsp;·&nbsp;&nbsp; OpenAI &nbsp;&nbsp;·&nbsp;&nbsp; Google Research &nbsp;&nbsp;·&nbsp;&nbsp; Anthropic</sub>
+<sub>
+Research · Engineering · Open Source · Publications
+</sub>
 
 <br/><br/>
 
-*I want to be in the room where the next generation of intelligence is being built.*
-*And eventually, help build it.*
-
-<br/>
+<i>
+"I want to contribute to the next generation of intelligent systems — first by building them, then by discovering what they can become."
+</i>
 
 </div>
 
 ---
+```
 
-<!-- FOOTER: rice fields fading to evening sky -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7a34,40:7db356,70:d4a84f,100:f7df6b&height=110&section=footer" width="100%"/>
-
-*Persistence is power.*
-
-</div>
