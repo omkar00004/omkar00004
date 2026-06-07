@@ -4,6 +4,12 @@
      ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7df6b,35:d4a84f,70:7db356,100:3a7a34&height=200&text=Omkar%20Gadakh&fontSize=54&fontColor=1a0800&animation=fadeIn&fontAlignY=42&fontAlign=50" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=19&duration=3000&pause=1000&color=2c5f2e&center=true&vCenter=true&width=720&height=46&lines=Applied+AI+Engineer+%7C+Aspiring+AI+Researcher;Building+agents+that+reason+%26+systems+that+scale;RAG+%C2%B7+LangGraph+%C2%B7+Agentic+AI+%C2%B7+LLM+Evaluation;2+Publications+%C2%B7+Springer+Nature+%2B+ICIA+Conference;Targeting+DeepMind+%C2%B7+OpenAI+%C2%B7+Google+Research+%C2%B7+Anthropic" alt="Typing SVG" />
+
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omkar--gadakh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-gadakh-313313288)
@@ -28,12 +34,6 @@ Two peer-reviewed publications in **Multimodal Content Moderation** at Springer 
 > *The work is the compass. Every system built is a sentence in a longer argument.*
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omkar00004&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar00004&layout=compact&hide_border=true&theme=gruvbox&langs_count=6" height="160"/>
 
 </div>
 
