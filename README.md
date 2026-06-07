@@ -148,7 +148,11 @@ Two peer-reviewed publications in **Multimodal Content Moderation** at Springer 
   </a>
 </p>
 
-[![GDG on Campus AI/ML Lead](https://img.shields.io/badge/GDG%20on%20Campus-AI%2FML%20Lead-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/omkar00004/certificates/blob/main/GDSC_certificate.png)
+<p align="center">
+  <a href="https://github.com/omkar00004/certificates/blob/main/GDSC_certificate.png">
+    <img src="https://img.shields.io/badge/GDG%20on%20Campus-AI%2FML%20Lead-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
 
 ---
 
