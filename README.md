@@ -168,11 +168,6 @@ Two peer-reviewed publications in **Multimodal Content Moderation** at Springer 
 
 ## &nbsp; The Direction
 
-```html
----
-
-## The Direction
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/NOW-Building%20AI-d4a84f?style=for-the-badge"/>
@@ -198,7 +193,3 @@ Research · Engineering · Open Source · Publications
 </i>
 
 </div>
-
----
-```
-
