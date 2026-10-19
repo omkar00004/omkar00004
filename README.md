@@ -2,12 +2,14 @@
 
 <div align="center">
 
+<h1>Hi, I'm Omkar <img src="assets/wave.svg" width="36" alt="👋"></h1>
+
 <img src="assets/hero.svg" width="100%" alt="Omkar N. Gadakh, Applied AI Engineer moving toward AI research. A 3D avatar of Omkar waving from a desk, with books on Machine Learning, LLMs and System Design."><br>
 
-<a href="https://scholar.google.com/citations?user=PAyHrEwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-292D28?style=for-the-badge&logo=googlescholar&logoColor=D9D5C2" alt="Google Scholar"></a>
-<a href="https://www.researchgate.net/profile/Omkar-Gadakh-2"><img src="https://img.shields.io/badge/ResearchGate-292D28?style=for-the-badge&logo=researchgate&logoColor=D9D5C2" alt="ResearchGate"></a>
-<a href="https://linkedin.com/in/omkar-gadakh-313313288"><img src="https://img.shields.io/badge/LinkedIn-292D28?style=for-the-badge&logo=linkedin&logoColor=D9D5C2" alt="LinkedIn"></a>
-<a href="mailto:omkargadakh1272004@gmail.com"><img src="https://img.shields.io/badge/Email-292D28?style=for-the-badge&logo=gmail&logoColor=D9D5C2" alt="Email"></a>
+<a href="https://scholar.google.com/citations?user=PAyHrEwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-1A1A1A?style=for-the-badge&logo=googlescholar&logoColor=D6D6D6" alt="Google Scholar"></a>
+<a href="https://www.researchgate.net/profile/Omkar-Gadakh-2"><img src="https://img.shields.io/badge/ResearchGate-1A1A1A?style=for-the-badge&logo=researchgate&logoColor=D6D6D6" alt="ResearchGate"></a>
+<a href="https://linkedin.com/in/omkar-gadakh-313313288"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D6D6D6" alt="LinkedIn"></a>
+<a href="mailto:omkargadakh1272004@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D6D6D6" alt="Email"></a>
 
 <sub>
 <a href="#abstract">Abstract</a> &nbsp;·&nbsp;
@@ -177,6 +179,6 @@ FlashRank reranking raised MRR@10 from **0.470 to 0.656** (+0.186, 95% CI [+0.11
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=omkar00004&style=flat-square&color=71816B&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=omkar00004&style=flat-square&color=7A7A7A&label=profile+views" alt="profile views">
 
 </div>

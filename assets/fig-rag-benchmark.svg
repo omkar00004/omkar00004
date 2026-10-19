@@ -5,27 +5,27 @@
   .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
   .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
 </style>
-<rect x=".75" y=".75" width="398.5" height="258.5" rx="8" fill="#F6F4ED" stroke="#D9D5C2" stroke-width="1.5"/>
-<text class="serif" x="20" y="32" font-size="15" fill="#292D28"><tspan font-weight="700">Fig. 4.</tspan><tspan font-style="italic"> Reranking, measured</tspan></text>
+<rect x=".75" y=".75" width="398.5" height="258.5" rx="8" fill="#FAF9F6" stroke="#D6D6D6" stroke-width="1.5"/>
+<text class="serif" x="20" y="32" font-size="15" fill="#1A1A1A"><tspan font-weight="700">Fig. 4.</tspan><tspan font-style="italic"> Reranking, measured</tspan></text>
 
-<path d="M150 46V180M194 46V180M238 46V180M282 46V180M326 46V180M370 46V180" stroke="#D9D5C2"/>
-<g class="mono" font-size="10.5" fill="#5E625A" text-anchor="middle">
+<path d="M150 46V180M194 46V180M238 46V180M282 46V180M326 46V180M370 46V180" stroke="#D6D6D6"/>
+<g class="mono" font-size="10.5" fill="#3A3A3A" text-anchor="middle">
   <text x="150" y="196">.3</text><text x="194" y="196">.4</text><text x="238" y="196">.5</text><text x="282" y="196">.6</text><text x="326" y="196">.7</text><text x="370" y="196">.8</text>
 </g>
-<text class="mono" x="260" y="214" font-size="11" fill="#5E625A" text-anchor="middle">MRR@10 · 95% bootstrap CI · n = 100</text>
+<text class="mono" x="260" y="214" font-size="11" fill="#3A3A3A" text-anchor="middle">MRR@10 · 95% bootstrap CI · n = 100</text>
 
 <g class="sans" font-size="12.5">
-  <text x="20" y="76" fill="#5E625A">dense (MiniLM)</text>
-  <text x="20" y="118" fill="#292D28" font-weight="600">+ FlashRank</text>
-  <text x="20" y="160" fill="#292D28">hybrid + rerank</text>
+  <text x="20" y="76" fill="#3A3A3A">dense (MiniLM)</text>
+  <text x="20" y="118" fill="#1A1A1A" font-weight="600">+ FlashRank</text>
+  <text x="20" y="160" fill="#1A1A1A">hybrid + rerank</text>
 </g>
-<path d="M188 72H262M188 67V77M262 67V77M268 114H343M268 109V119M343 109V119M284 156H355M284 151V161M355 151V161" stroke="#292D28" stroke-width="1.5"/>
-<circle cx="225" cy="72" r="6" fill="#D9D5C2" stroke="#292D28" stroke-width="1.2"/>
-<circle cx="307" cy="114" r="6" fill="#9A4F3D"/>
-<circle cx="321" cy="156" r="6" fill="#405A6B"/>
-<g class="mono" font-size="11.5" fill="#292D28" text-anchor="middle">
+<path d="M188 72H262M188 67V77M262 67V77M268 114H343M268 109V119M343 109V119M284 156H355M284 151V161M355 151V161" stroke="#1A1A1A" stroke-width="1.5"/>
+<circle cx="225" cy="72" r="6" fill="#D6D6D6" stroke="#1A1A1A" stroke-width="1.2"/>
+<circle cx="307" cy="114" r="6" fill="#1A1A1A"/>
+<circle cx="321" cy="156" r="6" fill="#7A7A7A"/>
+<g class="mono" font-size="11.5" fill="#1A1A1A" text-anchor="middle">
   <text x="225" y="59">.470</text><text x="307" y="101">.656</text><text x="321" y="143">.689</text>
 </g>
-<path d="M20 228H380" stroke="#D9D5C2" stroke-width="1.2"/>
-<text class="mono" x="20" y="250" font-size="12" fill="#9A4F3D">rerank − dense: +0.186 [+0.112, +0.262]</text>
+<path d="M20 228H380" stroke="#D6D6D6" stroke-width="1.2"/>
+<text class="mono" x="20" y="250" font-size="12" fill="#1A1A1A">rerank − dense: +0.186 [+0.112, +0.262]</text>
 </svg>

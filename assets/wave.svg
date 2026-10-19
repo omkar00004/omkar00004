@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="waving hand">
+<style>
+  /* the hand pivots at the wrist, waves, then rests; static under reduced motion */
+  @keyframes wave{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(14deg)}20%{transform:rotate(-8deg)}40%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}
+  text{font-family:'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif;transform-box:fill-box;transform-origin:70% 80%;animation:wave 2.4s ease-in-out infinite}
+  @media (prefers-reduced-motion:reduce){text{animation:none}}
+</style>
+<text x="6" y="38" font-size="32">👋</text>
+</svg>
