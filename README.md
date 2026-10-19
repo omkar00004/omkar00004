@@ -25,7 +25,7 @@
 
 I build LLM systems and then try to measure them honestly. My work sits where **agentic systems**, **multimodal moderation** and **evaluation** meet: a policy-as-prompt gatekeeper that steers moderation with plain-language rules instead of retraining, a protocol-frozen study of how an LLM claim verifier behaves when its evidence is tainted, and retrieval benchmarks that report paired confidence intervals rather than single numbers.
 
-I am a final-year B.E. student in Artificial Intelligence and Data Science at Savitribai Phule Pune University (MET's Institute of Engineering, Nashik · GPA 9.55/10) and was a GenAI Intern at Diebold Nixdorf. **I am looking for a research apprenticeship** in LLM evaluation, robustness or multimodal AI.
+I am a final-year B.E. student in Artificial Intelligence and Data Science at Savitribai Phule Pune University (MET's Institute of Engineering, Nashik · GPA 8.42/10) and was a GenAI Intern at Diebold Nixdorf. **I am looking for a research apprenticeship** in LLM evaluation, robustness or multimodal AI.
 
 > **Questions I keep returning to**
 > 1. How far can a plain-language policy steer a model at inference time, and where does it stop working?
@@ -148,7 +148,7 @@ FlashRank reranking raised MRR@10 from **0.470 to 0.656** (+0.186, 95% CI [+0.11
 **AI/ML Lead** · Google Developer Groups on Campus · Nashik, India &nbsp; <sub>`Sep 2024 to Jul 2025`</sub>
 - Ran 5+ machine learning workshops (participation up 50%) and mentored 300+ students in Python, TensorFlow and PyTorch. [[certificate]](https://github.com/omkar00004/certificates/blob/main/GDSC_certificate.png)
 
-**B.E., Artificial Intelligence & Data Science** · Savitribai Phule Pune University · MET's Institute of Engineering, Nashik &nbsp; <sub>`GPA 9.55 / 10`</sub>
+**B.E., Artificial Intelligence & Data Science** · Savitribai Phule Pune University · MET's Institute of Engineering, Nashik &nbsp; <sub>`GPA 8.42 / 10`</sub>
 - Coursework beyond the degree: [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/AIEO1EGWQUWM) (Andrew Ng, DeepLearning.AI).
 
 ## Systems
