@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-labelledby="t">
+<title id="t">Beyond Text survey map: multimodal moderation methods grouped into LLM guardrails, fusion models, vision, audio, and two open gaps, latency and on-prem privacy. 26+ methods surveyed.</title>
+<style>
+  .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+</style>
+<rect x=".75" y=".75" width="398.5" height="258.5" rx="8" fill="#F3EBDD" stroke="#D7C5A5" stroke-width="1.5"/>
+<text class="serif" x="20" y="32" font-size="15" fill="#292D28"><tspan font-weight="700">Fig. 2.</tspan><tspan font-style="italic"> Survey map</tspan></text>
+<text class="mono" x="380" y="32" font-size="12" fill="#A65F46" text-anchor="end">26+ methods</text>
+
+<g stroke-width="1.2" fill="none">
+  <path d="M200 140L340 140M200 140L60 140M200 140L130 71M200 140L270 71" stroke="#405A6B" stroke-opacity=".75"/>
+  <path d="M200 140L130 209M200 140L270 209" stroke="#A65F46" stroke-dasharray="4 4"/>
+</g>
+<g fill="#D7C5A5">
+  <circle cx="300" cy="118" r="2.5"/><circle cx="312" cy="160" r="2.5"/><circle cx="96" cy="120" r="2.5"/><circle cx="88" cy="162" r="2.5"/>
+  <circle cx="168" cy="52" r="2.5"/><circle cx="92" cy="54" r="2.5"/><circle cx="232" cy="50" r="2.5"/><circle cx="318" cy="56" r="2.5"/>
+  <circle cx="356" cy="114" r="2.5"/><circle cx="40" cy="112" r="2.5"/><circle cx="356" cy="168" r="2.5"/><circle cx="34" cy="166" r="2.5"/>
+</g>
+<circle cx="200" cy="140" r="44" fill="#405A6B"/>
+<g class="sans" font-size="13" fill="#F3EBDD" text-anchor="middle"><text x="200" y="137">multimodal</text><text x="200" y="153">moderation</text></g>
+
+<g class="sans" font-size="12.5" text-anchor="middle">
+  <g fill="#F3EBDD" stroke="#292D28">
+    <rect x="218" y="58" width="104" height="26" rx="13"/><rect x="78" y="58" width="104" height="26" rx="13"/>
+    <rect x="294" y="127" width="92" height="26" rx="13"/><rect x="14" y="127" width="92" height="26" rx="13"/>
+  </g>
+  <g fill="#292D28">
+    <text x="270" y="75">LLM guardrails</text><text x="130" y="75">fusion models</text>
+    <text x="340" y="144">audio</text><text x="60" y="144">vision</text>
+  </g>
+  <g fill="#F3EBDD" stroke="#A65F46" stroke-width="1.5" stroke-dasharray="4 3">
+    <rect x="82" y="196" width="96" height="26" rx="13"/><rect x="214" y="196" width="112" height="26" rx="13"/>
+  </g>
+  <g fill="#A65F46" font-weight="600"><text x="130" y="213">latency</text><text x="270" y="213">on-prem privacy</text></g>
+</g>
+<path d="M264 246H284" stroke="#A65F46" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text class="mono" x="380" y="250" font-size="11" fill="#5E625A" text-anchor="end">open gap</text>
+</svg>

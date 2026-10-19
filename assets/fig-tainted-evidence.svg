@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-labelledby="t">
+<title id="t">Tainted Evidence: the planted canary word appears in 159 of 160 injected outputs with the plain prompt P0, 94 of 160 with the defended prompt P1, and 0 of 160 controls. Gold-CONTRADICTS claims judged SUPPORTS rise from 6 to 16 of 80 under P0 and from 3 to 7 of 80 under P1.</title>
+<style>
+  .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+</style>
+<rect x=".75" y=".75" width="398.5" height="258.5" rx="8" fill="#F3EBDD" stroke="#D7C5A5" stroke-width="1.5"/>
+<text class="serif" x="20" y="32" font-size="15" fill="#292D28"><tspan font-weight="700">Fig. 3.</tspan><tspan font-style="italic"> Injected note vs. verdict</tspan></text>
+
+<text class="mono" x="20" y="56" font-size="12" fill="#5E625A">canary word echoed in output</text>
+<g class="sans" font-size="12.5">
+  <text x="20" y="77" fill="#292D28">injected · P0</text>
+  <text x="20" y="99" fill="#292D28">injected · P1</text>
+  <text x="20" y="121" fill="#5E625A">controls</text>
+</g>
+<rect x="122" y="66" width="199" height="14" fill="#A65F46"/>
+<rect x="122" y="88" width="117" height="14" fill="#405A6B"/>
+<rect x="122" y="110" width="2" height="14" fill="#292D28"/>
+<g class="mono" font-size="12" fill="#292D28">
+  <text x="327" y="77">159/160</text><text x="245" y="99">94/160</text><text x="130" y="121">0/160</text>
+</g>
+
+<path d="M20 140H380" stroke="#D7C5A5" stroke-width="1.2"/>
+<text class="mono" x="20" y="162" font-size="12" fill="#5E625A">CONTRADICTS judged SUPPORTS (/80)</text>
+<path d="M122 170V222M177 170V222M232 170V222M287 170V222M342 170V222" stroke="#D7C5A5"/>
+<g class="mono" font-size="10.5" fill="#5E625A" text-anchor="middle">
+  <text x="122" y="235">0</text><text x="177" y="235">5</text><text x="232" y="235">10</text><text x="287" y="235">15</text><text x="342" y="235">20</text>
+</g>
+<g class="sans" font-size="12.5" fill="#292D28"><text x="20" y="188">P0 plain</text><text x="20" y="212">P1 defended</text></g>
+<path d="M188 184H298M155 208H199" stroke="#292D28" stroke-width="1.5"/>
+<g stroke-width="1.5">
+  <circle cx="188" cy="184" r="5" fill="#F3EBDD" stroke="#292D28"/><circle cx="298" cy="184" r="5" fill="#A65F46" stroke="#A65F46"/>
+  <circle cx="155" cy="208" r="5" fill="#F3EBDD" stroke="#292D28"/><circle cx="199" cy="208" r="5" fill="#A65F46" stroke="#A65F46"/>
+</g>
+<g class="mono" font-size="12" fill="#292D28"><text x="310" y="188">6 → 16</text><text x="211" y="212">3 → 7</text></g>
+<text class="mono" x="20" y="252" font-size="11" fill="#5E625A">○ clean evidence   ● injected · 160 SciFact claims</text>
+</svg>
